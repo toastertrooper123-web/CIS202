@@ -1,0 +1,3 @@
+Welcome To Pong!
+
+This is a two player pong game that has been upgraded from the original code. There are many features that have been added to enhance your playing experience. The buttons used to play are the "Up" and "Down" arrows keys, along with the "W" and "S" keys. Press "P" to pause the game and "R" to restart and begin the game. "1", "2", and "3" cycle between the three difficulties available at the difficulty menu. We hope that your experience is enjoyable!
